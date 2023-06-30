@@ -1,1 +1,1 @@
-# chatting-app
+# flight-tickets-app
